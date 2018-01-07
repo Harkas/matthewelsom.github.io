@@ -3,7 +3,7 @@ title:
 category: home
 ---
 
-# Hi, I'm Matthew...
+# Hi, I'm Harkas...
 
 I design and create <br><a href="{{ site.baseurl }}/about/index.html" id="typed">websites.</a>
 
